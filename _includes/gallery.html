@@ -9,7 +9,7 @@
   {% for image in post.images %}
     {% if image.size == 'full' %}
       <div class="image" style="
-        background-image: url({{image.path}});
+        background-image: url({{ image.path | prepend: site.baseurl }});
         background-size: cover;
         width: 200px;
         height: 300px;
@@ -17,7 +17,7 @@
       "></div>
     {% else %}
       <div class="image" style="
-        background-image: url({{image.path}});
+        background-image: url({{ image.path | prepend: site.baseurl }});
         background-size: cover;
         width: 100px;
         height: 100px;

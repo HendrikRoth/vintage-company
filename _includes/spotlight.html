@@ -9,6 +9,6 @@
       <p>{{ post.content }}</p>
     </div>
     <div class="image filtered tinted" data-position="top left">
-      <img src="{{ post.image }}" alt="" />
+      <img src="{{ post.image | prepend: site.baseurl }}" alt="" />
     </div>
   </section>

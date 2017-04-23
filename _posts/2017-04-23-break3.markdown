@@ -1,7 +1,0 @@
----
-layout: home
-date:   2017-04-23 00:03:02 +0200
-type:   break
----
-
-Zitat

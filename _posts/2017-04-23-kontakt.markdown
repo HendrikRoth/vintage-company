@@ -1,0 +1,12 @@
+---
+layout: home
+title:  "Kontakt"
+date:   2017-04-23 00:58:01 +0200
+type:   contact
+facebook: vintagecompanyde
+email: mail@vintage-company.de
+phone: 0178 1989496
+address: Hier und da
+---
+
+Rufen Sie gerne an, schicken Sie uns eine Email oder kommen Sie bei uns vorbei.

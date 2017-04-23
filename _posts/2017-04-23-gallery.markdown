@@ -1,0 +1,22 @@
+---
+layout: home
+title:  "Gallerie"
+date:   2017-04-23 00:03:01 +0200
+type:   gallery
+show:   false
+color: color2
+images:
+  - path: /images/pic01.jpg
+    title: Foo
+  - path: /images/pic02.jpg
+    title: Foo
+  - path: /images/pic03.jpg
+    title: Foo
+  - path: /images/vintagecompany.jpg
+    size: full
+    title: Foo
+  - path: /images/pic01.jpg
+    title: Foo
+---
+
+Unsere Gallerie.

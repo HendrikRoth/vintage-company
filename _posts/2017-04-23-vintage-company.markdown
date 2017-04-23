@@ -7,4 +7,5 @@ image: "/images/vintagecompany.jpg"
 position: left
 ---
 
-Bla.
+
+Bla. ....... selber Bla.

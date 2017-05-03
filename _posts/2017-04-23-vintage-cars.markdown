@@ -9,6 +9,6 @@ image: ''
 
 **Hier sehen Sie einige Projekte die bereits bei uns realisiert wurden.**
 
-**Auf unseren Facebook und Twitter-Accounts können Sie sich gerne einen weiteren Eindruck machen und bekommen immer wieder aktuelle Bilder und Infos von anstehenden Arbeiten die gerade bei uns durchgeführt werden.**
+**Auf unseren Facebook und Twitter-Accounts können Sie sich gerne einen weiteren Eindruck machen und bekommen immer wieder aktuelle Bilder und Infos von Arbeiten die gerade bei uns durchgeführt werden.**
 
 **Auch über einen Besuch vor Ort würden wir uns freuen.**

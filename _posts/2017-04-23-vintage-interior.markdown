@@ -10,7 +10,7 @@ image: "/images/interior.jpg"
 
 Sie haben Ihre ganz eigene Vorstellung,
 wie es im Innern Ihres VW-Bullis aussehen sollte?
-Oder vermissen Sie vielleicht den Klang einer heutigen Musikanlage
+Oder vermissen Sie vielleicht den Klang einer modernen Musikanlage
 in Ihrem Porsche 911?
 
 Egal welche Idee auch auf Ihrem Wunschzettel steht,

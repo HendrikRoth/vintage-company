@@ -1,7 +1,10 @@
 ---
 layout: home
-date:   2017-04-23 00:04:02 +0200
-type:   break
+date: '2017-04-22T22:04:02.000+00:00'
+type: break
 ---
 
-Zitat
+
+## ***"Keine Schraube hätte ich anders gemacht."***
+
+Ferdinand Porsche

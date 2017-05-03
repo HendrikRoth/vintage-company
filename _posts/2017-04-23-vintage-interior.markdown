@@ -1,16 +1,17 @@
 ---
 layout: home
-title:  "Vintage Interior"
-subtitle: "Der Technik-Bereich von VC"
-date:   2017-04-23 00:03:01 +0200
-type:   spotlight
-image:  /images/interior.jpg
+title: VINTAGE INTERIOR
+subtitle: ''
+date: '2017-04-22T22:03:01.000+00:00'
+type: spotlight
+image: "/images/interior.jpg"
 ---
+
 
 Sie haben Ihre ganz eigene Vorstellung,
 wie es im Innern Ihres VW-Bullis aussehen sollte?
 Oder vermissen Sie vielleicht den Klang einer heutigen Musikanlage
-in Ihrem Karmann Ghia?
+in Ihrem Porsche 911?
 
 Egal welche Idee auch auf Ihrem Wunschzettel steht,
 wir ermöglichen Ihnen einen speziell auf Ihr Fahrzeug angepassten Innenausbau. Versteckt verbaute Hi-Fi Komponenten gehören genau so zu unserem Repertoire

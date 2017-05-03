@@ -13,5 +13,12 @@ Wir bieten Ihnen eine umfangreiche Ersatzteilversorgung
 und führen herkömmliche Verschleißteile genauso
 wie Tuning- und Performanceparts in unserem Programm.**
 
+**Wir arbeiten eng mit unseren Partnern zusammen und können so einen schnellen und reibungslosen Ablauf und natürlich auch den gewünschten Service vor Ort gewährleisten.**
+
+**Maxilite-Felgen, Lokari-Innenkotflügel, LiquiMoly uvm. kann über uns bezogen werden. **
+
 **Lassen Sie uns Ihre Teileliste zukommen
 und wir bemühen uns um einen schnellstmöglichen Kostenvoranschlag.**
+
+**
+**

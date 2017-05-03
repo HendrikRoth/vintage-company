@@ -6,6 +6,8 @@ date: '2017-04-22T22:02:01.000+00:00'
 type: spotlight
 image: "/uploads/2017/05/03/IMG_2975-1.JPG"
 ---
+
+
 **Ihr Auftrag ist unsere Herausforderung.**
 
 **Die Karosseriewerkstatt hat es bis jetzt immer geschafft,
@@ -16,4 +18,4 @@ und der größtmöglichen Perfektion realisiert.**
 **Die Lackiererei kümmert sich um jeden individuellen Farbwunsch
 und erledigt Aufbereitungs- sowie Ausbesserungsarbeiten mit der gleichen Hingabe, wie bei einer Ganzlackierung.**
 
-**Wir erstellen Ihnen gerne einen unverbindlichen Kostenvoranschlagfür Ihre Restaurationsarbeiten.**
+**Wir erstellen Ihnen gerne einen unverbindlichen Kostenvoranschlag für Ihre Restaurationsarbeiten.**

@@ -1,7 +1,10 @@
 ---
 layout: home
-date:   2017-04-23 00:02:02 +0200
-type:   break
+date: '2017-04-22T22:02:02.000+00:00'
+type: break
 ---
 
-Zitat
+
+## ***"Ich bin nur jemand, der das Glück hat, in etwas gut zu sein, dass Ihm Spaß macht."***
+
+Michael Schumachen

@@ -1,7 +1,13 @@
 ---
 layout: home
-date:   2017-04-23 00:03:02 +0200
-type:   break
+date: '2017-04-22T22:03:02.000+00:00'
+type: break
 ---
 
-Zitat
+
+## *"Vernünftige Autos werden vom Antrieb geschoben, nicht gezogen."*
+
+*
+*
+
+Walter Röhrl

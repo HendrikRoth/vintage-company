@@ -4,7 +4,7 @@ title: VINTAGE PAINT
 subtitle: ''
 date: '2017-04-22T22:02:01.000+00:00'
 type: spotlight
-image: "/uploads/2017/05/03/IMG_2975.JPG"
+image: "/uploads/2017/05/03/IMG_2975-1.JPG"
 ---
 **Ihr Auftrag ist unsere Herausforderung.**
 

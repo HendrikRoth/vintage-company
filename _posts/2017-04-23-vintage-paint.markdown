@@ -10,7 +10,7 @@ image: "/images/paint.jpg"
 
 **Ihr Auftrag ist unsere Herausforderung.**
 
-**Die Karosseriewerkstatt hat es bis jetzt immer geschafft,                                <span style="font-size: 1rem;">dem Rost den Gar auszumachen.
+**Die Karosseriewerkstatt hat es bis jetzt immer geschafft, <span style="font-size: 1rem;">dem Rost den Gar auszumachen.
 Umfangreiche Schweißarbeiten und komplette Neuaufbauten
 werden bei uns nur mit dem besten Material
 und der größtmöglichen Perfektion realisiert.</span>**

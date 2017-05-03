@@ -1,12 +1,12 @@
 ---
 layout: home
-title:  "Kontakt"
-date:   2017-04-23 00:58:01 +0200
-type:   contact
+title: Kontakt
+date: '2017-04-22T22:58:01.000+00:00'
+type: contact
 facebook: vintagecompanyde
 email: mail@vintage-company.de
-phone: 0178 1989496
-address: Hier und da
+phone: "+49 178 1989496"
+address: Am Klingenbach 4 / 97353 Wiesentheid
 ---
 
 Rufen Sie gerne an, schicken Sie uns eine Email oder kommen Sie bei uns vorbei.

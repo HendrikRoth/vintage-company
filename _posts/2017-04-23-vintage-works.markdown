@@ -8,14 +8,11 @@ image: "/uploads/2017/05/03/IMG_0399-2.JPG"
 ---
 
 
-Vom Tank bis zur Bremsanlage kümmern wir uns um alle Bereiche
+**Vom Tank bis zur Bremsanlage kümmern wir uns um alle Bereiche
 Ihres luftgekühlten Schätzchens.
 Einer individuellen Motor-Leistungssteigerung nehmen wir uns genau so an,
 wie das tauschen einer Glühbirne.
-
 Hauptuntersuchung, Sondereintragungen und Oldtimergutachten
 können Sie bei uns ebenso in Auftrag geben,
 wie eine umfassende Jahres-Inspektion oder einen Ölwechsel.
-
-Melden Sie sich einfach bei uns und wir vereinbaren einen unverbindlichen Termin.
-
+Melden Sie sich einfach bei uns und wir vereinbaren einen unverbindlichen Termin.**

@@ -9,7 +9,7 @@ image: "/uploads/2017/05/03/IMG_0296-1.JPG"
 
 
 **Sie haben Ihre ganz eigene Vorstellung,
-wie es im Innern Ihres VW-Bullis aussehen sollte?
+wie es im Innern Ihres VW-Bulli aussehen sollte?
 Oder vermissen Sie vielleicht den Klang einer modernen Musikanlage
 in Ihrem Porsche 911?**
 

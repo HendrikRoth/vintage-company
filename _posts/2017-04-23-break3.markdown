@@ -7,7 +7,4 @@ type: break
 
 ## *"Vernünftige Autos werden vom Antrieb geschoben, nicht gezogen."*
 
-*
-*
-
 Walter Röhrl

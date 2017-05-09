@@ -4,7 +4,8 @@ title: VINTAGE INTERIOR
 subtitle: ''
 date: '2017-04-22T22:03:01.000+00:00'
 type: spotlight
-image: "/uploads/2017/05/03/IMG_0296.JPG"
+position: left
+image: "/uploads/2017/05/03/IMG_0296-3.JPG"
 ---
 
 

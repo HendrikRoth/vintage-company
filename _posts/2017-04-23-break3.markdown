@@ -2,9 +2,7 @@
 layout: home
 date: '2017-04-22T22:03:02.000+00:00'
 type: break
+author: Walter Röhrl
+topic: Vernünftige Autos werden vom Antrieb geschoben, nicht gezogen.
 ---
 
-
-## ***"Vernünftige Autos werden vom Antrieb geschoben, nicht gezogen."***
-
-Walter Röhrl

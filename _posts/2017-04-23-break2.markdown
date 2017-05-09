@@ -2,9 +2,7 @@
 layout: home
 date: '2017-04-22T22:02:02.000+00:00'
 type: break
+author: Michael Schumacher
+topic: Ich bin nur jemand,<br>der das Glück hat,<br> in etwas<br> gut zu sein,<br> das Ihm Spaß macht.
 ---
 
-
-## ***"Ich bin nur jemand, der das Glück hat, in etwas gut zu sein, dass Ihm Spaß macht."***
-
-Michael Schumachen

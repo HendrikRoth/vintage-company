@@ -2483,3 +2483,58 @@ button,
       -webkit-transform: none;
       -ms-transform: none;
       transform: none; } }
+.vintagecompany {
+  overflow: 'hidden'; }
+  .vintagecompany .content {
+    padding: 0 !important;
+    text-align: center;
+    justify-content: flex-start !important; }
+  .vintagecompany h2 {
+    margin: 0 auto;
+    margin-top: 90px;
+    position: initial;
+    text-indent: -9999px;
+    display: block;
+    width: 382px;
+    height: 60px;
+    background-image: url(/vintage-company/images/vintagecompany.png); }
+  .vintagecompany p {
+    font-family: "Calligraffitti";
+    font-size: 1.6em;
+    font-weight: bold;
+    line-height: 1.2em; }
+  .vintagecompany .tinted {
+    background: black; }
+
+.break .intro.joined {
+  padding: 0 40px !important; }
+  .break .intro.joined h2 {
+    font-family: "Calligraffitti";
+    font-size: 1.8em;
+    line-height: 1.6em;
+    font-weight: bold;
+    transform: rotate(-5deg);
+    letter-spacing: 1px;
+    position: relative;
+    text-align: center !important; }
+    .break .intro.joined h2 span.first, .break .intro.joined h2 span.second {
+      opacity: 0.4;
+      font-size: 2em;
+      line-height: 0.1em;
+      font-weight: bold;
+      position: relative;
+      bottom: -10px;
+      left: -10px; }
+    .break .intro.joined h2 span.second {
+      right: 20px;
+      bottom: -20px; }
+    .break .intro.joined h2 p {
+      text-align: center !important; }
+  .break .intro.joined h3 {
+    text-align: right;
+    width: 100%;
+    font-size: 1em;
+    font-weight: normal; }
+    .break .intro.joined h3 span {
+      opacity: 0.4;
+      margin-right: 5px; }

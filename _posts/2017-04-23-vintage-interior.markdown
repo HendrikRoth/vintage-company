@@ -5,7 +5,7 @@ subtitle: ''
 date: '2017-04-22T22:03:01.000+00:00'
 type: spotlight
 position: left
-image: "/uploads/2017/05/03/IMG_2996-3.jpg"
+image: "/uploads/2017/05/03/IMG_0296-3.jpg"
 ---
 
 

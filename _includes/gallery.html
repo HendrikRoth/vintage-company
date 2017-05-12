@@ -7,27 +7,10 @@
 	{% endif %}
 	<div class="gallery">
 		{% for image in post.images %}
-			{% if image.size == 'full' %}
-				<a href="{{ image.path | prepend: site.baseurl }}" class="image">
-					<div class="image" style="
-						background-image: url({{ image.path | prepend: site.baseurl }});
-						background-size: cover;
-						width: 200px;
-						height: 300px;
-						flex: 100;
-						"></div>
-				</a>
-			{% else %}
-				<a href="{{ image.path | prepend: site.baseurl }}" class="image">
-					<div class="image" style="
-						background-image: url({{ image.path | prepend: site.baseurl }});
-						background-size: cover;
-						width: 100px;
-						height: 100px;
-						flex: 50;
-						"></div>
-				</a>
-			{% endif %}
+			<a href="{{ image.path | prepend: site.baseurl }}" class="image-link" size="{{ image.size }}" style="
+				background-image: url({{ image.path | prepend: site.baseurl }});
+				">
+			</a>
 		{% endfor %}
 	</div>
 </section>

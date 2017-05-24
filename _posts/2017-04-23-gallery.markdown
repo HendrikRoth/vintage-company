@@ -6,43 +6,43 @@ type: gallery
 show: false
 color: color2
 images:
-- path: "/uploads/2017/05/24/IMG_0201.JPG"
-  title: ''
-- path: "/uploads/2017/05/24/DSCF6085.JPG"
-  title: ''
-- path: "/uploads/2017/05/24/DSCF4289.JPG"
-  title: ''
-- path: "/uploads/2017/05/24/IMG_0014.JPG"
-  title: ''
-- path: "/uploads/2017/05/24/IMG_0393.JPG"
-  title: ''
-- path: "/uploads/2017/05/24/IMG_2974.JPG"
-  title: ''
-- path: "/uploads/2017/05/24/DSCF5301.JPG"
-  title: ''
-- path: "/uploads/2017/05/24/IMG_0296.JPG"
-  title: ''
-- path: "/uploads/2017/05/24/IMG_8413.JPG"
-  title: ''
-- path: "/uploads/2017/05/24/IMG_3811.JPG"
-  title: ''
-- path: "/uploads/2017/05/24/639.JPG"
-  title: ''
-- path: "/uploads/2017/05/24/IMG_0489.JPG"
-  title: ''
 - path: "/uploads/2017/05/24/DSCF6070.JPG"
   title: ''
 - path: "/uploads/2017/05/24/630.JPG"
   title: Foo
 - path: "/uploads/2017/05/24/DSCF5122.JPG"
   title: Foo
+- path: "/uploads/2017/05/24/IMG_3185.JPG"
+  title: Foo
 - path: "/uploads/2017/05/24/IMG_9854.JPG"
   title: Foo
 - path: "/uploads/2017/05/24/IMG_8853.JPG"
   size: full
   title: Foo
-- path: "/uploads/2017/05/24/IMG_3185.JPG"
-  title: Foo
+- path: "/uploads/2017/05/24/IMG_0489.JPG"
+  title: ''
+- path: "/uploads/2017/05/24/639.JPG"
+  title: ''
+- path: "/uploads/2017/05/24/IMG_3811.JPG"
+  title: ''
+- path: "/uploads/2017/05/24/IMG_8413.JPG"
+  title: ''
+- path: "/uploads/2017/05/24/IMG_0296.JPG"
+  title: ''
+- path: "/uploads/2017/05/24/DSCF5301.JPG"
+  title: ''
+- path: "/uploads/2017/05/24/IMG_2974.JPG"
+  title: ''
+- path: "/uploads/2017/05/24/IMG_0393.JPG"
+  title: ''
+- path: "/uploads/2017/05/24/IMG_0014.JPG"
+  title: ''
+- path: "/uploads/2017/05/24/DSCF4289.JPG"
+  title: ''
+- path: "/uploads/2017/05/24/DSCF6085.JPG"
+  title: ''
+- path: "/uploads/2017/05/24/IMG_0201.JPG"
+  title: ''
 ---
 
 Unsere Gallerie.

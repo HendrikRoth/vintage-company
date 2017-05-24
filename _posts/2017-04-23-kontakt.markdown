@@ -9,4 +9,5 @@ phone: "+49 178 1989496"
 address: Am Klingenbach 4 / 97353 Wiesentheid
 ---
 
-Rufen Sie gerne an, schicken Sie uns eine Email oder kommen Sie bei uns vorbei.
+
+Rufen Sie gerne an, schicken Sie uns eine Email oder kommen Sie auf einen Kaffee vorbei.

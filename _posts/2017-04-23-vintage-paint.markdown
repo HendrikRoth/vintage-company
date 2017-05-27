@@ -13,10 +13,12 @@ position: left
 
 **Die Karosseriewerkstatt hat es bis jetzt immer geschafft,
 dem Rost den Gar auszumachen.
-Umfangreiche Schweißarbeiten und komplette Neuaufbauten
-werden bei uns nur mit dem besten Material
-und der größtmöglichen Perfektion realisiert.**
-**Die Lackiererei kümmert sich um jeden individuellen Farbwunsch
-und erledigt Aufbereitungs- sowie Ausbesserungsarbeiten mit der gleichen Hingabe, wie bei einer Ganzlackierung.**
+Umfangreiche Schweißarbeiten**
+**und komplette Neuaufbauten**
+**werden bei uns nur mit dem besten Material**
+**und der größtmöglichen Perfektion realisiert.**
+
+**Die Lackiererei kümmert sich um jeden individuellen Farbwunsch**
+**und erledigt Aufbereitungs- sowie Ausbesserungsarbeiten mit der gleichen Hingabe, wie bei einer Ganzlackierung.**
 
 **Wir erstellen Ihnen gerne einen unverbindlichen Kostenvoranschlag für Ihre Restaurationsarbeiten.**

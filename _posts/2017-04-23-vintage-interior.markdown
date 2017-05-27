@@ -10,12 +10,18 @@ image: "/uploads/2017/05/03/IMG_0296-3.jpg"
 
 
 **Sie haben Ihre ganz eigene Vorstellung,
-wie es im Innern Ihres VW-Bulli aussehen sollte?
-Oder vermissen Sie vielleicht den Klang einer modernen Musikanlage
+wie es im Innern Ihres**
+**VW-Bulli aussehen sollte?**
+
+**Oder vermissen Sie vielleicht den**
+**Klang einer modernen Musikanlage
 in Ihrem Porsche 911?**
 
-**Egal welche Idee auch auf Ihrem Wunschzettel steht,
-wir ermöglichen Ihnen einen speziell auf Ihr Fahrzeug angepassten Innenausbau. Versteckt verbaute Hi-Fi Komponenten gehören genau so zu unserem Repertoire, wie eine wunderschöne neue Echtleder-Ausstattung.**
+**Egal welche Idee auch auf Ihrem Wunschzettel steht,**
+**wir ermöglichen Ihnen einen speziell auf Ihr Fahrzeug**
+**angepassten Innenausbau. Versteckt verbaute Hi-Fi Komponenten**
+**gehören genau so zu unserem Repertoire,**
+**wie eine wunderschöne neue Echtleder-Ausstattung.**
 
 **Sprechen Sie uns an
 und wir erläutern in einem umfassenden Gespräch gerne alle Möglichkeiten.**

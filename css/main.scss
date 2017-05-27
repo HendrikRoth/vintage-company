@@ -140,8 +140,8 @@
 			position: initial;
 			text-indent: -9999px;
 			display: block;
-			width: 382px;
-			height: 60px;
+			width: 582px;
+			height: 86px;
 			background-image: url({{ "/images/vintagecompany.png" | prepend: site.baseurl }});
 			background-size: 100%;
 
@@ -271,4 +271,8 @@
 		width: 100px;
 		margin: 0 auto;
 	}
+}
+
+#contact {
+	background-color:black!important;
 }

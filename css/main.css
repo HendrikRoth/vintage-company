@@ -159,8 +159,7 @@ body {
     height: 100%;
     z-index: -1;
     background-attachment: fixed;
-    background-color: #e1e6e1;
-    background-image: url("./images/overlay.png"), url("./images/bg.jpg");
+    background-color: #130d0c;
     background-repeat: repeat, repeat-x;
     background-size: 128px 128px, cover; }
   body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -570,18 +569,15 @@ input[type="radio"] {
   input[type="radio"]:focus + label:before {
     border-color: #ffe4b4;
     box-shadow: 0 0 0 1px #ffe4b4; }
-  input[type="checkbox"]:focus:checked + label:before,
-  input[type="radio"]:focus:checked + label:before {
-    background: #ffe4b4; }
   input[type="checkbox"].color1 + label:before,
   input[type="radio"].color1 + label:before {
-    color: #726193; }
+    color: #bc3d2b; }
   input[type="checkbox"].color2 + label:before,
   input[type="radio"].color2 + label:before {
-    color: #e37b7c; }
+    color: #bc3d2b; }
   input[type="checkbox"].color3 + label:before,
   input[type="radio"].color3 + label:before {
-    color: #ffe4b4; }
+    color: #bc3d2b; }
   input[type="checkbox"].color4 + label:before,
   input[type="radio"].color4 + label:before {
     color: #353865; }
@@ -859,7 +855,7 @@ ul {
       ul.contact-icons > li a {
         border-bottom: 0; }
     ul.contact-icons.color1 > li:before {
-      color: #726193; }
+      color: #bc3d2b; }
     ul.contact-icons.color2 > li:before {
       color: #e37b7c; }
     ul.contact-icons.color3 > li:before {
@@ -1169,7 +1165,7 @@ button,
     input[type="button"].special.color1,
     button.special.color1,
     .button.special.color1 {
-      color: #726193 !important; }
+      color: #bc3d2b !important; }
     input[type="submit"].special.color2,
     input[type="reset"].special.color2,
     input[type="button"].special.color2,
@@ -1573,7 +1569,7 @@ button,
     .panel > *.color4 {
       background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgba(114, 97, 147, 0.25) 25%, rgba(227, 123, 124, 0.25) 50%, rgba(255, 228, 180, 0.25));
       background-size: 128px 128px, auto;
-      background-color: #353865; }
+      background-color: black !important; }
     .panel > *.color1-alt {
       background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgba(114, 97, 147, 0.175) 25%, rgba(227, 123, 124, 0.175) 50%, rgba(255, 228, 180, 0.175));
       background-size: 128px 128px, auto;
@@ -1884,7 +1880,7 @@ button,
   .panel.color4 {
     background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgba(114, 97, 147, 0.25) 25%, rgba(227, 123, 124, 0.25) 50%, rgba(255, 228, 180, 0.25));
     background-size: 128px 128px, auto;
-    background-color: #353865; }
+    background-color: black !important; }
   .panel.color1-alt {
     background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgba(114, 97, 147, 0.175) 25%, rgba(227, 123, 124, 0.175) 50%, rgba(255, 228, 180, 0.175));
     background-size: 128px 128px, auto;
@@ -1923,9 +1919,11 @@ button,
       background-size: 128px 128px, auto;
       background-color: #ffe4b4; }
     .panel > *.color4 {
-      background-image: url("../../images/overlay.png"), linear-gradient(135deg, rgba(114, 97, 147, 0.25) 25%, rgba(227, 123, 124, 0.25) 50%, rgba(255, 228, 180, 0.25));
-      background-size: 128px 128px, auto;
-      background-color: #353865; }
+      background-image: linear-gradient(-90deg, transparent 0%, rgba(0, 0, 0, 0.125) 30%, rgba(0, 0, 0, 0.175) 50%);
+      background-color: black !important;
+      /**	@include gradient-background-small;
+      	background-color: _palette(accent4);
+      	**/ }
     .panel > *.color1-alt {
       background-image: url("../../images/overlay.png"), linear-gradient(135deg, rgba(114, 97, 147, 0.175) 25%, rgba(227, 123, 124, 0.175) 50%, rgba(255, 228, 180, 0.175));
       background-size: 128px 128px, auto;
@@ -2151,9 +2149,11 @@ button,
       background-size: 128px 128px, auto;
       background-color: #ffe4b4; }
     .panel.color4 {
-      background-image: url("../../images/overlay.png"), linear-gradient(135deg, rgba(114, 97, 147, 0.25) 25%, rgba(227, 123, 124, 0.25) 50%, rgba(255, 228, 180, 0.25));
-      background-size: 128px 128px, auto;
-      background-color: #353865; }
+      background-image: linear-gradient(-90deg, transparent 0%, rgba(0, 0, 0, 0.125) 30%, rgba(0, 0, 0, 0.175) 50%);
+      background-color: black !important;
+      /**	@include gradient-background-small;
+      	background-color: _palette(accent4);
+      	**/ }
     .panel.color1-alt {
       background-image: url("../../images/overlay.png"), linear-gradient(135deg, rgba(114, 97, 147, 0.175) 25%, rgba(227, 123, 124, 0.175) 50%, rgba(255, 228, 180, 0.175));
       background-size: 128px 128px, auto;
@@ -2416,12 +2416,15 @@ button,
   #wrapper > .copyright {
     position: absolute;
     bottom: -3rem;
-    right: 0;
+    left: 0;
+    color: white;
     font-size: 0.8rem;
-    color: rgba(46, 43, 55, 0.375);
     margin-bottom: 0; }
-    #wrapper > .copyright a:hover {
-      color: inherit; }
+    #wrapper > .copyright a {
+      text-decoration: none;
+      border-bottom: none; }
+      #wrapper > .copyright a:hover {
+        color: inherit; }
   #wrapper.is-dragging {
     -moz-user-select: none;
     -webkit-user-select: none;
@@ -2467,7 +2470,8 @@ button,
     #wrapper > .copyright {
       display: block;
       width: 100%;
-      text-align: center; }
+      text-align: center;
+      color: white; }
     body.is-loading #wrapper {
       -moz-transform: translateY(1rem);
       -webkit-transform: translateY(1rem);
@@ -2493,8 +2497,8 @@ button,
     position: initial;
     text-indent: -9999px;
     display: block;
-    width: 382px;
-    height: 60px;
+    width: 582px;
+    height: 86px;
     background-image: url(/vintage-company/images/vintagecompany.png);
     background-size: 100%; }
     @media screen and (max-width: 736px) {
@@ -2595,3 +2599,19 @@ button,
       padding: 10px;
       width: 100px;
       margin: 0 auto; } }
+
+#contact {
+  background-color: black !important; }
+
+#impressum {
+  overflow: auto;
+  display: block; }
+  #impressum .inner {
+    max-width: 500px;
+    margin: 0 auto; }
+    #impressum .inner h1 {
+      margin-top: 20px; }
+    #impressum .inner h2 {
+      margin-top: 50px; }
+    #impressum .inner h3 {
+      margin-top: 50px; }

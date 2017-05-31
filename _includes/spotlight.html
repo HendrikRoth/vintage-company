@@ -6,7 +6,7 @@
 			<br />
 			{{ post.subtitle }}
 		</h2>
-		<p>{{ post.content }}</p>
+		{{ post.content }}
 	</div>
 	<div class="image filtered tinted" data-position="top left">
 		<img src="{{ post.image | prepend: site.baseurl }}" alt="" />

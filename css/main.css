@@ -467,7 +467,7 @@ textarea {
   input[type="tel"]:focus,
   select:focus,
   textarea:focus {
-    border-color: #ffe4b4; }
+    border-color: #bc3d2b; }
 
 option {
   background-color: rgba(255, 255, 255, 0.875);
@@ -567,8 +567,11 @@ input[type="radio"] {
     border-color: rgba(255, 255, 255, 0.875); }
   input[type="checkbox"]:focus + label:before,
   input[type="radio"]:focus + label:before {
-    border-color: #ffe4b4;
-    box-shadow: 0 0 0 1px #ffe4b4; }
+    border-color: #bc3d2b;
+    box-shadow: 0 0 0 1px #bc3d2b; }
+  input[type="checkbox"]:focus:checked + label:before,
+  input[type="radio"]:focus:checked + label:before {
+    background: #bc3d2b; }
   input[type="checkbox"].color1 + label:before,
   input[type="radio"].color1 + label:before {
     color: #bc3d2b; }
@@ -1189,7 +1192,7 @@ button,
     input[type="button"].special:hover,
     button.special:hover,
     .button.special:hover {
-      background-color: #ffe4b4; }
+      background-color: #bc3d2b; }
     input[type="submit"].special:active,
     input[type="reset"].special:active,
     input[type="button"].special:active,

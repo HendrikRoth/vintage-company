@@ -8,7 +8,6 @@ position: left
 image: "/uploads/2017/05/03/IMG_0296-3.jpg"
 ---
 
-
 **Sie haben Ihre ganz eigene Vorstellung,
 wie es im Innern Ihres**
 **VW-Bulli aussehen sollte?**
@@ -23,5 +22,5 @@ in Ihrem Porsche 911?**
 **gehören genau so zu unserem Repertoire,**
 **wie eine wunderschöne neue Echtleder-Ausstattung.**
 
-**Sprechen Sie uns an
-und wir erläutern in einem umfassenden Gespräch gerne alle Möglichkeiten.**
+**Sprechen Sie uns an**
+**und wir erläutern in einem umfassenden Gespräch gerne alle Möglichkeiten.**

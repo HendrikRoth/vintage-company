@@ -26,10 +26,8 @@ gallery3:
     size: "1-5"
   - path: "/uploads/2017/05/24/639.JPG"
     size: "1-5"
-  - path: "/uploads/2017/05/24/IMG_3811.JPG"
-    size: "3"
   - path: "/uploads/2017/05/24/IMG_0296.JPG"
-    size: "1-5"
+    size: "3"
 gallery4:
   - path: "/uploads/2017/05/24/IMG_8413.JPG"
     size: "3"

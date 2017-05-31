@@ -75,7 +75,7 @@ textarea {
 	}
 
 	&:focus {
-		border-color: _palette(accent3);
+		border-color: #bc3d2b;
 	}
 }
 
@@ -179,14 +179,14 @@ input[type="radio"] {
 
 	&:focus + label {
 		&:before {
-			border-color: _palette(accent3);
-			box-shadow: 0 0 0 1px _palette(accent3);
+			border-color: #bc3d2b;
+			box-shadow: 0 0 0 1px #bc3d2b;
 		}
 	}
 
 	&:focus:checked + label {
 		&:before {
-			background: _palette(#bc3d2b);
+			background: #bc3d2b;
 		}
 	}
 

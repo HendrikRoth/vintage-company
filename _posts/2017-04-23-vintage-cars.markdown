@@ -4,7 +4,7 @@ title: VINTAGE CARS
 date: '2017-04-22T22:05:01.000+00:00'
 type: spotlight
 position: left
-image: "/uploads/2017/05/03/IMG_6741_2.png"
+image: "/uploads/2017/05/03/IMG_6741_2.jpg"
 ---
 
 

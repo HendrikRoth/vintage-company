@@ -7,8 +7,7 @@ type: spotlight
 position: left
 image: "/uploads/2017/05/03/IMG_0296-3.jpg"
 ---
-**Sie haben Ihre ganz eigene Vorstellung,
-wie es im Innern Ihres<br>VW-Bulli aussehen sollte?**
+**Sie haben Ihre ganz eigene Vorstellung,<br>wie es im Innern Ihres VW-Bulli aussehen sollte?**
 
 **Oder vermissen Sie vielleicht den Klang einer modernen Musikanlage in Ihrem Porsche 911?**
 

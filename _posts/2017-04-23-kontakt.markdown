@@ -7,7 +7,7 @@ facebook: vintagecompanyde
 email: mail@vintage-company.de
 phone: "+49 178 198 949 6"
 phone2: "+49 9383 400 99 52"
-address: Am Klingenbach 4, 97353 Wiesentheid
+address: Am Klingenbach 4  /  97353 Wiesentheid
 ---
 
 

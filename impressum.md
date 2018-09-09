@@ -13,8 +13,8 @@ Inh.: Danny Martin
 <h3>Kontakt:</h3>
 
 Telefon: +49 9556 698 99 33<br/>  
-Mobil: +49 178 1989496<br/>  
-Whatsapp: +49 151 59894969<br/>  
+Mobil: +49 178 198 94 96<br/>  
+Whatsapp: +49 151 598 94 96 9<br/>  
 E-Mail: <a href="mailto:mail@vintage-company.de">mail@vintage-company.de</a>
 
 <h2>Haftungsausschluss (Disclaimer)</h2>

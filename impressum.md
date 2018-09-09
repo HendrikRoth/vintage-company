@@ -3,12 +3,12 @@ layout: impressum
 title: Impressum
 
 ---
-<h3>Angaben gemäß § 5 TMG:</h3>
-Danny Martin<br/>
-
+<h3>Angaben gemäß § 5 TMG:</h3>  
 Vintage Company<br/>  
 Ebersbrunn 21<br/>  
-96160 Geiselwind
+96160 Geiselwind<br/>
+
+Inh.: Danny Martin
 
 <h3>Kontakt:</h3>
 

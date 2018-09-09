@@ -7,7 +7,6 @@ title: Impressum
 Vintage Company<br/>  
 Ebersbrunn 21<br/>  
 96160 Geiselwind<br/>  
-  
 Inh.: Danny Martin
 
 <h3>Kontakt:</h3>

@@ -1,13 +1,14 @@
 ---
 layout: home
 title: KONTAKT
-date: 2017-04-23 00:07
+date: 2017-04-23 00:00:00 +0000
 type: contact
 facebook: vintagecompanyde
 email: mail@vintage-company.de
 phone: "+49 178 198 949 6"
 phone2: "+49 9383 400 99 52"
-address: Am Klingenbach 4  /  97353 Wiesentheid
+address: Ebersbrunn 21  /  96160 Geiselwind
+
 ---
 
 

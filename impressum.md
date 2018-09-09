@@ -26,8 +26,8 @@ Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz: DE30128800
 
 Signal Iduna Gruppe<br/>  
 Rheinlanddamm 185-189<br/>  
-44139 Dortmund
-
+44139 Dortmund  
+  
 <h4>Geltungsraum der Versicherung:</h4>
 
 Deutschland

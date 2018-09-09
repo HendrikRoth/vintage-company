@@ -1,11 +1,12 @@
 ---
 layout: home
 title: Kontakt
-date: 2017-04-23 00:08
+date: 2017-04-23 00:00:00 +0000
 type: map
-longitude: 10.33703
-latitude: 49.78408
+longitude: 10.4583898
+latitude: 49.8030917
 key: AIzaSyA0T-4wu_nDFK2Z0nrc3hWB7QDWN3rbQt8
+
 ---
 
 Finde uns hier.

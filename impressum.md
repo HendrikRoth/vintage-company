@@ -222,12 +222,12 @@ E-Mail: <a href="mailto:mail@vintage-company.de">mail@vintage-company.de</a></p>
 
 <p>Der Provider der Seiten erhebt und speichert automatisch Informationen in so genannten Server-LogDateien, die Ihr Browser automatisch an uns übermittelt. Dies sind:</p>
 
-\- Browsertyp und Browserversion<br/>  
-\- verwendetes Betriebssystem<br/>  
-\- Referrer URL<br/>  
-\- Hostname des zugreifenden Rechners<br/>  
-\- Uhrzeit der Serveranfrage<br/>  
-\- IP-Adresse</p>
+<p>- Browsertyp und Browserversion<br/>  
+<p>- verwendetes Betriebssystem<br/>  
+<p>- Referrer URL<br/>  
+<p>- Hostname des zugreifenden Rechners<br/>  
+<p>- Uhrzeit der Serveranfrage<br/>  
+<p>- IP-Adresse</p>
 
 <p>Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen.</p>
 
@@ -239,7 +239,7 @@ E-Mail: <a href="mailto:mail@vintage-company.de">mail@vintage-company.de</a></p>
 
 <p>Bei der Benutzung des Kontaktformulars werden die, von Ihnen übermittelten Daten von [Formspree.io](http://Formspree.io/) gesammelt und unterliegen der Datenschutzerklärung von [Formspree.io](http://Formspree.io/). Beachten Sie, dass [Formspree.io](http://Formspree.io/) nur die 100 zuletzt gesendeten Nachrichten speichert. Danach werden die Nachrichten gelöscht. [Formspree.io](http://Formspree.io/) verwendet [Sendgrid.com](http://Sendgrid.com/) zur Übermittlung von Emails an [petra-weber.com](http://petra-weber.com/) gemäß ihrer Datenschutzerklärung: [Sendgrid.com](http://Sendgrid.com/) privacy policy.</p>
 
-<p>Wenn Sie uns ohne Verwendung dieser Drittanbieter kontaktieren wollen, können Sie uns eine Email an<a href="mailto:mail@vintage-company.de">mail@vintage-company.de</a>schreiben.</p>
+<p>Wenn Sie uns ohne Verwendung dieser Drittanbieter kontaktieren wollen, können Sie uns eine Email an <a href="mailto:mail@vintage-company.de">mail@vintage-company.de</a> schreiben.</p>
 
 <p>Wir löschen die Anfragen, sofern diese nicht mehr erforderlich sind. Wir überprüfen die Erforderlichkeit alle zwei Jahre; Ferner gelten die gesetzlichen Archivierungspflichten.</p>  
    

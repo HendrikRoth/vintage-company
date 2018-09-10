@@ -124,7 +124,7 @@ Germany
 
 <h5>Wer ist verantwortlich für die Datenerfassung auf dieser Website?</h5>
 
-Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten können Sie dem Impressum dieser Website entnehmen.
+<p>Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten können Sie dem Impressum dieser Website entnehmen.</p>
 
 <h5>Wie erfassen wir Ihre Daten?</h5>
 
@@ -134,7 +134,7 @@ Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Des
 
 <h5>Wofür nutzen wir Ihre Daten?</h5>
 
-Ein Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der Website zu gewährleisten. Andere Daten können zur Analyse Ihres Nutzerverhaltens verwendet werden.
+<p>Ein Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der Website zu gewährleisten. Andere Daten können zur Analyse Ihres Nutzerverhaltens verwendet werden.</p>
 
 <h5>Welche Rechte haben Sie bezüglich Ihrer Daten?</h5>
 

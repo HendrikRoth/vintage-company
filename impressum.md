@@ -1,6 +1,6 @@
 ---
 layout: impressum
-title: Impressum
+title: Impressum (Site Notice)
 
 ---
 <h3>Angaben gemäß § 5 TMG</h3>  
@@ -26,8 +26,8 @@ Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz: DE30128800
 
 Signal Iduna Gruppe<br/>  
 Rheinlanddamm 185-189<br/>  
-44139 Dortmund  
-  
+44139 Dortmund<br/>
+
 <h4>Geltungsraum der Versicherung:</h4>
 
 Deutschland
@@ -37,7 +37,7 @@ Deutschland
 <p>Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: [https://ec.europa.eu/consumers/odr.](https://ec.europa.eu/consumers/odr. "https://ec.europa.eu/consumers/odr.")  
 Unsere E-Mail-Adresse finden Sie oben im Impressum.</p>
 
-<p>Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.</p>  
+<p>Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.</p>
 
 <h2>Haftungsausschluss (Disclaimer)</h2>
 

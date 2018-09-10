@@ -223,7 +223,7 @@ E-Mail: <a href="mailto:mail@vintage-company.de">mail@vintage-company.de</a></p>
 <p>Der Provider der Seiten erhebt und speichert automatisch Informationen in so genannten Server-LogDateien, die Ihr Browser automatisch an uns übermittelt. Dies sind:</p>
 
 <p>- Browsertyp und Browserversion<br/>  
-<p>- verwendetes Betriebssystem<br/>  
+<p>- Verwendetes Betriebssystem<br/>  
 <p>- Referrer URL<br/>  
 <p>- Hostname des zugreifenden Rechners<br/>  
 <p>- Uhrzeit der Serveranfrage<br/>  
@@ -272,6 +272,165 @@ E-Mail: <a href="mailto:mail@vintage-company.de">mail@vintage-company.de</a></p>
 <p>Die Nutzung von Google Maps erfolgt im Interesse einer ansprechenden Darstellung unserer OnlineAngebote und an einer leichten Auffindbarkeit der von uns auf der Website angegebenen Orte. Dies stellt ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar.</p>
 
 <p>Mehr Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von Google: https://policies.google.com/privacy?hl=de.</p>
+
+<h3>1. Data protection</h3>
+
+<h4>General information</h4>
+
+<p>The following information will provide you with an easy to navigate overview of what will happen with your personal data when you visit our website. The term “personal data” comprises all data that can be used to personally identify you. For detailed information about the subject matter of data protection, please consult our Data Protection Declaration, which we have included beneath this copy.</p>
+
+<h4>Data recording on our website</h4>
+
+<h5>Who is the responsible party for the recording of data on this website (i.e. the “controller”)?</h5>
+
+<p>The data on this website is processed by the operator of the website, whose contact information is available under section “Information Required by Law” on this website.</p>
+
+<h5>How do we record your data?</h5>
+
+<p>We collect your data as a result of your sharing of your data with us. This may, for instance be information you enter into our contact form.</p>
+
+<p>Our IT systems automatically record other data when you visit our website. This data comprises primarily technical information (e.g. web browser, operating system or time the site was accessed). This information is recorded automatically when you access our website.</p>
+
+<h5>What are the purposes we use your data for?</h5>
+
+<p>A portion of the information is generated to guarantee the error free provision of the website. Other data may be used to analyse your user patterns.</p>
+
+<h5>What rights do you have as far as your information is concerned?</h5>
+
+<p>You have the right to receive information about the source, recipients and purposes of your archived personal data at any time without having to pay a fee for such disclosures. You also have the right to demand that your data are rectified, blocked or eradicated. Please do not hesitate to contact us at any time under the address disclosed in section “Information Required by Law” on this website if you have questions about this or any other data protection related issues. You also have the right to log a complaint with the competent supervising agency.</p>
+
+<p>Moreover, under certain circumstances, you have the right to demand the restriction of the processing of your personal data. For details, please consult the Data Protection Declaration under section “Right to Restriction of Data Processing.”</p>
+
+<h3>2. General information and mandatory information</h3>
+
+<h4>Data protection</h4>
+
+<p>The operators of this website and its pages take the protection of your personal data very seriously. Hence, we handle your personal data as confidential information and in compliance with the statutory data protection regulations and this Data Protection Declaration.</p>
+
+<p>Whenever you use this website, a variety of personal information will be collected. Personal data comprises data that can be used to personally identify you. This Data Protection Declaration explains which data we collect as well as the purposes we use this data for. It also explains how, and for which purpose the information is collected.</p>
+
+<p>We herewith advise you that the transmission of data via the Internet (i.e. through e-mail communications) may be prone to security gaps. It is not possible to completely protect data against third party access.</p>
+
+<h4>Information about the responsible party (referred to as the “controller” in the GDPR)</h4>
+
+<p>The data processing controller on this website is:</p>
+
+Danny Martin<br/>  
+Ebersbrunn 21<br/>  
+96160 Geiselwind</p>
+
+Phone: +49 9556 698 99 33<br/>  
+Mobilphone: +49 178 198 94 96<br/>  
+Whatsapp: +49 151 598 94 96 9<br/>  
+E-Mail: <a href="mailto:mail@vintage-company.de">mail@vintage-company.de</a></p>
+
+<p>The controller is the natural person or legal entity that single-handedly or jointly with others makes decisions as to the purposes of and resources for the processing of personal data (e.g. names, e-mail addresses, etc.).</p>
+
+<h4>Revocation of your consent to the processing of data</h4>
+
+<p>A wide range of data processing transactions are possible only subject to your express consent. You can also revoke at any time any consent you have already given us. To do so, all you are required to do is sent us an informal notification via e-mail. This shall be without prejudice to the lawfulness of any data collection that occurred prior to your revocation.<p>
+
+<h4>Right to object to the collection of data in special cases; right to object to direct advertising (Art. 21 GDPR)</h4>
+
+<h5>In the event that data are processed on the basis of Art. 6 Sect. 1 lit. e or f GDPR, you have the right to at any time object to the processing of your personal data based on grounds arising from your unique situation. This also applies to any profiling based on these provisions. To determine the legal basis, on which any processing of data is based, please consult this Data Protection Declaration. If you log an objection, we will no longer process your affected personal data, unless we are in a position to present compelling protection worthy grounds for the processing of your data, that outweigh your interests, rights and freedoms or if the purpose of the processing is the claiming, exercising or defence of legal entitlements (objection pursuant to Art. 21 Sect. 1 GDPR).</h5>
+
+<h5>If your personal data is being processed in order to engage in direct advertising, you have the right to at any time object to the processing of your affected personal data for the purposes of such advertising. This also applies to profiling to the extent that it is affiliated with such direct advertising. If you object, your personal data will subsequently no longer be used for direct advertising purposes (objection pursuant to Art. 21 Sect. 2 GDPR).</h5>
+
+<h4>Right to log a complaint with the competent supervisory agency</h4>
+
+<p>In the event of violations of the GDPR, data subjects are entitled to log a complaint with a supervisory agency, in particular in the member state where they usually maintain their domicile, place of work or at the place where the alleged violation occurred. The right to log a complaint is in effect regardless of any other administrative or court proceedings available as legal recourses.</p>
+
+<h4>Right to data portability</h4>
+
+<p>You have the right to demand that we hand over any data we automatically process on the basis of your consent or in order to fulfil a contract be handed over to you or a third party in a commonly used, machine readable format. If you should demand the direct transfer of the data to another controller, this will be done only if it is technically feasible.</p>
+
+<h4>SSL and/or TLS encryption</h4>
+
+<p>For security reasons and to protect the transmission of confidential content, such as purchase orders or inquiries you submit to us as the website operator, this website uses either an SSL or a TLS encryption programme. You can recognise an encrypted connection by checking whether the address line of the browser switches from “http://” to “https://” and also by the appearance of the lock icon in the browser line.</p>
+
+<p>If the SSL or TLS encryption is activated, data you transmit to us cannot be read by third parties.</p>
+
+<h4>Information about, blockage, rectification and eradication of data</h4>
+
+<p>Within the scope of the applicable statutory provisions, you have the right to at any time demand information about your archived personal data, their source and recipients as well as the purpose of the processing of your data. You may also have a right to have your data rectified, blocked or eradicated. If you have questions about this subject matter or any other questions about personal data, please do not hesitate to contact us at any time at the address provided in section “Information Required by Law.”</p>
+
+<h4>Right to demand processing restrictions</h4>
+
+<p>You have the right to demand the imposition of restrictions as far as the processing of your personal data is concerned. To do so, you may contact us at any time at the address provided in section “Information Required by Law.” The right to demand restriction of processing applies in the following cases:</p>
+
+<p>- In the event that you should dispute the correctness of your data archived by us, we will usually need some time to verify this claim. During the time that this investigation is ongoing, you have the right to demand that we restrict the processing of your personal data</p>  
+<p>- If the processing of your personal data was/is conducted in an unlawful manner, you have the option to demand the restriction of the processing of your data in lieu of demanding the eradication of this data.</p>  
+<p>- If we do not need your personal data any longer and you need it to exercise, defend or claim legal entitlements, you have the right to demand the restriction of the processing of your personal data instead of its eradication.</p>  
+<p>- If you have raised an objection pursuant to Art. 21 Sect. 1 GDPR, your rights and our rights will have to be weighed against each other. As long as it has not been determined whose interests prevail, you have the right to demand a restriction of the processing of your personal data.</p>
+
+<p>If you have restricted the processing of your personal data, these data – with the exception of their archiving – may be processed only subject to your consent or to claim, exercise or defend legal entitlements or to protect the rights of other natural persons or legal entities or for important public interest reasons cited by the European Union or a member state of the EU.</p>
+
+<h3>3. Recording of data on our website</h3>
+
+<h4>Cookies</h4>
+
+<p>In some instances, our website and its pages use so-called cookies. Cookies do not cause any damage to your computer and do not contain viruses. The purpose of cookies is to make our website more user friendly, effective and more secure. Cookies are small text files that are placed on your computer and stored by your browser.</p>
+
+<p>Most of the cookies we use are so-called “session cookies.” They are automatically deleted after your leave our site. Other cookies will remain archived on your device until you delete them. These cookies enable us to recognise your browser the next time you visit our website.</p>
+
+<p>You can adjust the settings of your browser to make sure that you are notified every time cookies are placed and to enable you to accept cookies only in specific cases or to exclude the acceptance of cookies for specific situations or in general and to activate the automatic deletion of cookies when you close your browser. If you deactivate cookies, the functions of this website may be limited.</p>
+
+<p>Cookies that are required for the performance of the electronic communications transaction or to provide certain functions you want to use (e.g. the shopping cart function), are stored on the basis of Art. 6 Sect. 1 lit. f GDPR. The website operator has a legitimate interest in storing cookies to ensure the technically error free and optimised provision of the operator’s services. If other cookies (e.g. cookies for the analysis of your browsing patterns) should be stored, they are addressed separately in this Data Protection Declaration.</p>
+
+<h4>Server log files</h4>
+
+<p>The provider of this website and its pages automatically collects and stores information in so-called server log files, which your browser communicates to us automatically. The information comprises:</p>
+
+<p>- The type and version of browser used<br/>  
+<p>- The used operating system<br/>  
+<p>- Referrer URL<br/>  
+<p>- The hostname of the accessing computer<br/>  
+<p>- The time of the server inquiry<br/>  
+<p>- The IP address</p>
+
+<p>This data is not merged with other data sources.</p>
+
+<p>This data is recorded on the basis of Art. 6 Sect. 1 lit. f GDPR. The operator of the website has a legitimate interest in the technically error free depiction and the optimization of the operator’s website. In order to achieve this, server log files must be recorded.</p>
+
+<h4>Contact form</h4>
+
+<p>When contacting us (for example, by contact form, e-mail, telephone or social media), the details of the users to process the contact request and their processing in accordance with. Art 6 para. 1 lit. b GDPR processed. User information may be stored in a customer relationship management system ("CRM system") or similar request structure.</p>
+
+<p>When using the contact form, the data you submit will be collected by Formspree.io and will be governed by the privacy policy of Formspree.io. Note that Formspree.io saves only the 100 most recently sent messages. After that, the messages are deleted.Formspree.io uses Sendgrid.com to send emails to petra-weber.com according to its privacy policy: Sendgrid.com privacy policy.</p>
+
+<p>If you want to contact us without using these third parties, you can email us at <a href="mailto:mail@vintage-company.de"> mail@vintage-company.de </a>.</p>
+
+<p>We delete the requests, if they are no longer required. We check the necessity every two years; Furthermore, the legal archiving obligations apply.</p>
+
+<h4>Request by e-mail, telephone or fax</h4>
+
+<p>If you contact us by e-mail, telephone or fax, your request, including all resulting personal data (name, request) will be stored and processed by us for the purpose of processing your request. We do not pass these data on without your consent.</p>
+
+<p>The processing of these data is based on Art. 6 para. 1 lit. b GDPR, if your request is related to the execution of a contract or if it is necessary to carry out pre-contractual measures. In all other cases, the processing is based on your consent (Article 6 (1) a GDPR) and/or on our legitimate interests (Article 6 (1) (f) GDPR), since we have a legitimate interest in the effective processing of requests addressed to us.</p>
+
+<p>The data sent by you to us via contact requests remain with us until you request us to delete, revoke your consent to the storage or the purpose for the data storage lapses (e.g. after completion of your request). Mandatory statutory provisions - in particular statutory retention periods - remain unaffected.</p>
+
+<h4>Processing of data (customer and contract data)</h4>
+
+<p>We collect, process and use personal data only to the extent necessary for the establishment, content organization or change of the legal relationship (data inventory). These actions are taken on the basis of Art. 6 Sect. 1 lit. b GDPR, which permits the processing of data for the fulfilment of a contract or pre-contractual actions. We collect, process and use personal data concerning the use of our website (usage data) only to the extent that this is necessary to make it possible for users to utilize the services and to bill for them.</p>
+
+<p>The collected customer data shall be eradicated upon completion of the order or the termination of the business relationship. This shall be without prejudice to any statutory retention mandates.</p>
+
+<h3>4. Plug-ins and Tools</h3>
+
+<h4>Google Web Fonts (local embedding)</h4>
+
+<p>This website uses so-called Web Fonts provided by Google to ensure the uniform use of fonts on this site. These Google fonts are locally installed so that a connection to Google’s servers will not be established in conjunction with this application.</p>
+
+<h4>Google Maps</h4>
+
+<p>Via an API, this website uses the mapping service Google Maps. The provider is Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.</p>
+
+<p>To enable the use of the Google Maps features, your IP address must be stored. As a rule, this information is transferred to one of Google’s servers in the United States, where it is archived. The operator of this website has no control over the data transfer.</p>
+
+<p>We use Google Maps to present our online content in an appealing manner and to make the locations disclosed on our website easy to find. This constitutes a legitimate interest as defined in Art. 6 Sect. 1 lit. f GDPR.</p>
+
+<p>For more information on the handling of user data, please review Google’s Data Privacy Declaration under: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en. "https://policies.google.com/privacy?hl=en.").</p>
 
   
    

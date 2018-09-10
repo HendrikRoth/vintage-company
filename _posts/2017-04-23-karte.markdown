@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Kontakt
-date: 2017-04-23 00:00:00 +0000
+date: 2017-04-23 23:00:00 +0000
 type: map
 longitude: 10.4583898
 latitude: 49.8030917

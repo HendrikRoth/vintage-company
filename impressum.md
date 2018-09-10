@@ -5,9 +5,9 @@ title: Impressum (Site Notice)
 ---
 <h3>Angaben gemäß § 5 TMG</h3>  
 Vintage Company<br/>  
+Inh.: Danny Martin<br/>  
 Ebersbrunn 21<br/>  
-96160 Geiselwind<br/>  
-Inh.: Danny Martin
+96160 Geiselwind
 
 <h3>Kontakt</h3>
 
@@ -38,6 +38,41 @@ Deutschland
 Unsere E-Mail-Adresse finden Sie oben im Impressum.</p>
 
 <p>Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.</p>
+
+<h3>Information pursuant to § 5 TMG</h3>  
+Vintage Company<br/>  
+Inh.: Danny Martin<br/>  
+Ebersbrunn 21<br/>  
+96160 Geiselwind
+
+<h3>Contact</h3>
+
+Phone: +49 9556 698 99 33<br/>  
+Mobilphone: +49 178 198 94 96<br/>  
+Whatsapp: +49 151 598 94 96 9<br/>  
+E-Mail: <a href="mailto:mail@vintage-company.de">mail@vintage-company.de</a>
+
+<h3>VAT ID</h3>
+
+Sales tax identification number according to § 27 a of the Sales Tax Law: DE301288004  
+
+<h3>Information regarding professional liability insurance:</h3>
+
+<h4>Name and registered office of the insurer:</h4>
+
+Signal Iduna Group<br/>  
+Rheinlanddamm 185-189<br/>  
+44139 Dortmund<br/>
+
+<h4>Scope of insurance:</h4>
+
+Germany
+
+<h3>EU dispute resolution</h3>
+
+<p>The European Commission provides a platform for online dispute resolution (ODR): [https://ec.europa.eu/consumers/odr.](https://ec.europa.eu/consumers/odr. "https://ec.europa.eu/consumers/odr.") Our e-mail address can be found above in the site notice.</p>
+
+<p>We are not willing or obliged to participate in dispute resolution proceedings before a consumer arbitration board.</p>
 
 <h2>Haftungsausschluss (Disclaimer)</h2>
 

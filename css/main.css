@@ -1,5 +1,11 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300i,400i");
+@font-face {
+  font-family: "SourceSansPro";
+  src: url("/fonts/SourceSansVariable-Roman.eot?") format("eot"), url("/fonts/SourceSansVariable-Roman.woff2") format("woff2"), url("/fonts/SourceSansVariable-Roman.woff") format("woff"), url("/fonts/SourceSansVariable-Roman.ttf") format("truetype"), url("/fonts/SourceSansVariable-Roman.svg#SourceSansPro") format("svg"); }
+@font-face {
+  font-family: "Calligraffitti";
+  src: url("/fonts/Calligraffitti-Regular.eot?") format("eot"), url("/fonts/Calligraffitti-Regular.woff2") format("woff2"), url("/fonts/Calligraffitti-Regular.woff") format("woff"), url("/fonts/Calligraffitti-Regular.ttf") format("truetype"), url("/fonts/Calligraffitti-Regular.svg#Calligraffitti") format("svg"); }
 /*
 	Ethereal by HTML5 UP
 	html5up.net | @ajlkn

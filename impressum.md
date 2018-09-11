@@ -47,8 +47,8 @@ Ebersbrunn 21<br/>
 <h3>Contact</h3>
 
 Phone: +49 9556 698 99 33<br/>  
-Mobilphone: +49 178 198 94 96<br/>  
-Whatsapp: +49 151 598 94 96 9<br/>  
+Mobilphone 1: +49 178 198 94 96<br/>  
+Mobilphone 2: +49 151 598 94 96 9<br/>  
 E-Mail: <a href="mailto:mail@vintage-company.de">mail@vintage-company.de</a>
 
 <h3>VAT ID</h3>

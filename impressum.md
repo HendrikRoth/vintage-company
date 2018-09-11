@@ -160,8 +160,8 @@ Ebersbrunn 21<br/>
 96160 Geiselwind</p>
 
 Telefon: +49 9556 698 99 33<br/>  
-Mobil: +49 178 198 94 96<br/>  
-Whatsapp: +49 151 598 94 96 9<br/>  
+Mobil 1: +49 178 198 94 96<br/>  
+Mobil 2: +49 151 598 94 96 9<br/>  
 E-Mail: <a href="mailto:mail@vintage-company.de">mail@vintage-company.de</a></p>
 
 <p>Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, E-Mail-Adressen o. Ä.) entscheidet.</p>

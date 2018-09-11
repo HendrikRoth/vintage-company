@@ -319,8 +319,8 @@ Ebersbrunn 21<br/>
 96160 Geiselwind</p>
 
 Phone: +49 9556 698 99 33<br/>  
-Mobilphone: +49 178 198 94 96<br/>  
-Whatsapp: +49 151 598 94 96 9<br/>  
+Mobilphone 1: +49 178 198 94 96<br/>  
+Mobilphone 2: +49 151 598 94 96 9<br/>  
 E-Mail: <a href="mailto:mail@vintage-company.de">mail@vintage-company.de</a></p>
 
 <p>The controller is the natural person or legal entity that single-handedly or jointly with others makes decisions as to the purposes of and resources for the processing of personal data (e.g. names, e-mail addresses, etc.).</p>

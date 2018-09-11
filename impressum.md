@@ -12,8 +12,7 @@ Ebersbrunn 21<br/>
 <h3>Kontakt</h3>
 
 Telefon: +49 9556 698 99 33<br/>  
-Mobil: +49 178 198 94 96<br/>  
-Whatsapp: +49 151 598 94 96 9<br/>  
+Mobil 1: +49 178 198 94 96<br/> Mobil 2: +49 151 598 94 96 9<br/>  
 E-Mail: <a href="mailto:mail@vintage-company.de">mail@vintage-company.de</a>
 
 <h3>Umsatzsteuer</h3>
@@ -54,7 +53,7 @@ E-Mail: <a href="mailto:mail@vintage-company.de">mail@vintage-company.de</a>
 
 <h3>VAT ID</h3>
 
-Sales tax identification number according to § 27 a of the Sales Tax Law: DE301288004  
+Sales tax identification number according to § 27 a of the Sales Tax Law: DE301288004
 
 <h3>Information regarding professional liability insurance:</h3>
 
@@ -431,6 +430,3 @@ E-Mail: <a href="mailto:mail@vintage-company.de">mail@vintage-company.de</a></p>
 <p>We use Google Maps to present our online content in an appealing manner and to make the locations disclosed on our website easy to find. This constitutes a legitimate interest as defined in Art. 6 Sect. 1 lit. f GDPR.</p>
 
 <p>For more information on the handling of user data, please review Google’s Data Privacy Declaration under: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en. "https://policies.google.com/privacy?hl=en.").</p>
-
-  
-   

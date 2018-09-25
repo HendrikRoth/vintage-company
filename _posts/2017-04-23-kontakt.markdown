@@ -7,7 +7,7 @@ facebook: vintagecompanyde
 email: mail@vintage-company.de
 phone: "+49 178 198 94 96"
 phone2: "+49 9556 698 99 33"
-phone3: "+49 151 598 94 96"
+phone3: "+49 151 598 94 96 9"
 address: Ebersbrunn 21  /  96160 Geiselwind
 instagram: vintagecompany.de
 

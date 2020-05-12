@@ -12,4 +12,4 @@ position: left
 
 **Einer individuellen Motor-Leistungssteigerung nehmen wir uns genau so an, wie das tauschen einer Glühbirne.<br>Hauptuntersuchung, Sondereintragungen und Oldtimergutachten können Sie bei uns ebenso in Auftrag geben,<br>wie eine umfassende Jahres-Inspektion oder einen Ölwechsel.**
 
-**Melden Sie sich einfach bei uns und wir vereinbaren einen unverbindlichen Termin.123456789**
+**Melden Sie sich einfach bei uns und wir vereinbaren einen unverbindlichen Termin.....**

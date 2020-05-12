@@ -1,0 +1,56 @@
+<section class="panel">
+	{% if post.hide %}
+		<div class="intro color2 {{ post.color }}">
+			<h2 class="major">{{ post.title }}</h2>
+			<p>{{ post.content }}</p>
+		</div>
+	{% endif %}
+	<div class="gallery">
+
+		<div class="group span-3">
+			{% for image in post.gallery1 %}
+				<a href="{{ image.path | prepend: site.baseurl }}" class="image filtered span-{{ image.size }}" data-position="{{ image.position }}" style="
+					background-image: url({{ image.path | prepend: site.baseurl }});background-size:cover;background-position:center center;
+					">
+				</a>
+			{% endfor %}
+		</div>
+
+		<div class="group span-4-5">
+			{% for image in post.gallery2 %}
+				<a href="{{ image.path | prepend: site.baseurl }}" class="image filtered span-{{ image.size }}" data-position="{{ image.position }}" style="
+					background-image: url({{ image.path | prepend: site.baseurl }});background-size:cover;background-position:center center;
+					">
+				</a>
+			{% endfor %}
+		</div>
+
+		<div class="group span-3">
+			{% for image in post.gallery3 %}
+				<a href="{{ image.path | prepend: site.baseurl }}" class="image filtered span-{{ image.size }}" data-position="{{ image.position }}" style="
+					background-image: url({{ image.path | prepend: site.baseurl }});background-size:cover;background-position:center center;
+					">
+				</a>
+			{% endfor %}
+		</div>
+
+		<div class="group span-4-5">
+			{% for image in post.gallery4 %}
+				<a href="{{ image.path | prepend: site.baseurl }}" class="image filtered span-{{ image.size }}" data-position="{{ image.position }}" style="
+					background-image: url({{ image.path | prepend: site.baseurl }});background-size:cover;background-position:center center;
+					">
+				</a>
+			{% endfor %}
+		</div>
+
+		<div class="group span-3">
+			{% for image in post.gallery5 %}
+				<a href="{{ image.path | prepend: site.baseurl }}" class="image filtered span-{{ image.size }}" data-position="{{ image.position }}" style="
+					background-image: url({{ image.path | prepend: site.baseurl }});background-size:cover;background-position:center center;
+					">
+				</a>
+			{% endfor %}
+		</div>
+
+	</div>
+</section>

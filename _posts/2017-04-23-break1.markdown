@@ -1,0 +1,7 @@
+---
+layout: home
+date: '2017-04-22T22:01:02.000+00:00'
+type: break
+author: Walter Röhrl
+topic: Man kann ein Auto nicht wie ein menschliches Wesen behandeln, ein Auto braucht Liebe.
+---
